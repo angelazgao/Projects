@@ -1,4 +1,5 @@
 # Data Science Projects
+By: Angela Gao (angelazgao@gmail.com)
 
 ### Digit Classification: MNIST
 - K-Nearest Neighbors and Naive Bayes
