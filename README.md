@@ -3,8 +3,7 @@ By: Angela Gao (angelazgao@gmail.com)
 
 ### Data Visualizations: COVID-19 Mobility
 - Collection of Tableau dashboards exploring global and US state metrics
-- [Hosted Ischool Server](https://www.ischool.berkeley.edu/projects/2020/covid-19-resource-allocation-visualization)
-- [Link to Dashboards](https://people.ischool.berkeley.edu/~dhruvi/W209_finalAssignment_Covid/#home-id)
+- [Link to Website](https://people.ischool.berkeley.edu/~dhruvi/W209_finalAssignment_Covid/#home-id)
 
 ### Query Project: Lyft Bay Wheels
 - Big Data Analytics using Google BigQuery (Google Cloud Platform), SQL
