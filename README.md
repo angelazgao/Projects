@@ -2,7 +2,8 @@
 By: Angela Gao (angelazgao@gmail.com)
 
 ### Data Visualizations: COVID-19 Mobility
-- Collection of Tableau dashboards exploring global and US state metrics
+- Collection of Tableau dashboards 
+- Exploring global and US state COVID-19 metrics, public space mobility (Google Mobility Data), racial demographics, and social media impact (Twitter)
 - [Link to Website](https://people.ischool.berkeley.edu/~dhruvi/W209_finalAssignment_Covid/#home-id)
 
 ### Query Project: Lyft Bay Wheels
